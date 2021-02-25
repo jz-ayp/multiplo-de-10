@@ -1,41 +1,41 @@
 {
   "tests": [
     {
-      "name": "54+77",
+      "name": "123",
       "setup": "",
-      "run": "LANG=en_US.utf8 python3 calculadora.py",
-      "input": "54\r\n77\r\nSumar",
-      "output": "131",
+      "run": "LANG=en_US.utf8 python3 main.py",
+      "input": "123",
+      "output": "El número 123 no es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
       "points": null
     },
     {
-      "name": "54-77",
+      "name": "24560",
       "setup": "",
-      "run": "LANG=en_US.utf8 python3 calculadora.py",
-      "input": "54\r\n77\r\nRestar",
-      "output": "-23",
+      "run": "LANG=en_US.utf8 python3 main.py",
+      "input": "24560",
+      "output": "El número 24560 sí es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
       "points": null
     },
     {
-      "name": "54*77",
+      "name": "102030",
       "setup": "",
       "run": "LANG=en_US.utf8 python3 calculadora.py",
-      "input": "54\r\n77\r\nMultiplicar",
-      "output": "4158",
+      "input": "102030",
+      "output": "El número 102030 sí es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
       "points": null
     },
     {
-      "name": "54/77",
+      "name": "102034",
       "setup": "",
       "run": "LANG=en_US.utf8 python3 calculadora.py",
-      "input": "54\r\n77\r\nDividir",
-      "output": "0.7012987",
+      "input": "102034",
+      "output": "El número 102034 no es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
       "points": null
