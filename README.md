@@ -10,6 +10,7 @@
     - Una explicación, a grandes rasgos, del proceso de solución.
 - Elaborar un diagrama de flujo que muestre la lógica del algoritmo.
 - Codificar el algoritmo en un programa correcto de Python.
+- Identificar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
 
 ## Instrucciones
 - Elabora el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
