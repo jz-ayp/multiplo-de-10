@@ -1,11 +1,11 @@
-# Flowchart
-Add your flowchart to this directory.
-## Requirements
-- [x] The format is ***jpg***.
-- [x] The flowchart is clear and easily readable.
-- [x] The flowchart uses the correct shape for each process outlined.
-- [x] The flowchart follows the logic of your program.
-## Directions
+# Diagrama de flujo
+Añade tu diagrama de flujo a esta carpeta.
+## Requisitos
+- [x] El formato debe ser ***png***.
+- [x] El diagrama de flujo es claro y fácilmente legible.
+- [x] El diagrama de flujo usa las formas geométricas que corresponden a cada tipo de elemento.
+- [x] El diagrama de flujo corresponde con la lógica de tu programa.
+## Instrucciones
 - [Creating and adding flowcharts to GitHub](https://youtu.be/oy5nhA7QpNI)
-## Example Flowchart
-   ![Example Flowchart](/assets/lessonXflowchart.jpg)
+## Diagrama de flujo de ejemplo
+   ![Diagrama de flujo de ejemplo](/assets/flowchart_example.png)
