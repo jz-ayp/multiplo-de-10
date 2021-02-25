@@ -23,7 +23,7 @@
     {
       "name": "102030",
       "setup": "",
-      "run": "LANG=en_US.utf8 python3 calculadora.py",
+      "run": "LANG=en_US.utf8 python3 main.py",
       "input": "102030",
       "output": "El número 102030 sí es múltiplo de 10",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "102034",
       "setup": "",
-      "run": "LANG=en_US.utf8 python3 calculadora.py",
+      "run": "LANG=en_US.utf8 python3 main.py",
       "input": "102034",
       "output": "El número 102034 no es múltiplo de 10",
       "comparison": "included",
