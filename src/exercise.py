@@ -12,7 +12,7 @@ def main():
         resultado = "no"
         
     # Salidas
-    print("El número", numero, resultado, "es múltiplo de 10."
+    print("El número", numero, resultado, "es múltiplo de 10")
     
 
 if __name__ == '__main__': 
