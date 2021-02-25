@@ -1,6 +1,6 @@
 def main():
     # delete the 'pass' statement, then begin coding below:
-    # pass
+    # p ass
     
     # Entradas
     numero = int(input("Introduzca un número: "))
