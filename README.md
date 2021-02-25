@@ -1,8 +1,8 @@
 # Estructuras de decisión
 
-## Múltiplo de 10
+## Ejercicio: Múltiplo de 10
 
-## Objectives
+## Objectivos
 - Formular una solución efectiva a un problema que incorpora estructuras de decisión.
 - Interpretar adecuadamente los requisitos de solución de un problema a partir de su descripcion en lenguaje natural.
 - Generar, a partir del análisis del problema:
