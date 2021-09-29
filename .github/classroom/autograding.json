@@ -8,7 +8,7 @@
       "output": "El número 123 no es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "24560",
@@ -18,7 +18,7 @@
       "output": "El número 24560 sí es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "102030",
@@ -28,7 +28,7 @@
       "output": "El número 102030 sí es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "102034",
@@ -38,7 +38,37 @@
       "output": "El número 102034 no es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
+    }
+    {
+      "name": "0",
+      "setup": "",
+      "run": "LANG=en_US.utf8 python3 main.py",
+      "input": "0",
+      "output": "El número 0 sí es múltiplo de 10",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+    {
+      "name": "-102034",
+      "setup": "",
+      "run": "LANG=en_US.utf8 python3 main.py",
+      "input": "102034",
+      "output": "El número -102034 no es múltiplo de 10",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+    {
+      "name": "-1020",
+      "setup": "",
+      "run": "LANG=en_US.utf8 python3 main.py",
+      "input": "-1020",
+      "output": "El número -1020 no es múltiplo de 10",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
     }
   ]
 }
