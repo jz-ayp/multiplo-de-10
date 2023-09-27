@@ -54,7 +54,7 @@
       "name": "-102034",
       "setup": "",
       "run": "LANG=en_US.utf8 python3 main.py",
-      "input": "102034",
+      "input": "-102034",
       "output": "El número -102034 no es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
@@ -65,7 +65,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 python3 main.py",
       "input": "-1020",
-      "output": "El número -1020 no es múltiplo de 10",
+      "output": "El número -1020 sí es múltiplo de 10",
       "comparison": "included",
       "timeout": 1,
       "points": 1
