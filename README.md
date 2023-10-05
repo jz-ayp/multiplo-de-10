@@ -7,7 +7,7 @@
 
 - **Diseña un programa para determinar si un número entero es múltiplo de 10**.
 
-- Codifica tu solución en el archivo [`main.py`](/main.py).
+- Codifica tu solución en el archivo [`multiplo_de_10.py`](/multiplo_de_10.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
