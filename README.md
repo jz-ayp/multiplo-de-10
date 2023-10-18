@@ -20,19 +20,7 @@
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
 
-- Añade una cadena de documentación (*docstring*) como la siguiente al inicio de tu programa:
-  ```
-  '''
-  Tarea: <Nombre de la tarea y del ejercicio>
-  Autor: <Tu nombre>
-  Fecha de entrega: DD/MM/YYYY
-  Grupo: ESI-XXXX-XX
-  Profesor: XXX
-
-  Descripción:
-  <Una breve descripción del programa>
-  '''
-  ```
+- Añade una cadena de documentación (*docstring*) al inicio de tu programa.
   
 ## Entrega
 Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo, código y pruebas de ejecución, en un informe tal como se describe en los requisitos para entrega de tareas en Canvas. No olvides incluir portada y conclusiones.
